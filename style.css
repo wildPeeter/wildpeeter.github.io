@@ -1,0 +1,59 @@
+.mainbox {
+    background-color: brown;
+    width: 800px;
+    margin: 0px auto;
+}
+
+.menu{
+    background-color: blueviolet;
+}
+.leftside{
+    background-color: cadetblue;
+    width: 100px;
+    float: left;
+}
+
+.main{
+    background-color: cornflowerblue;
+    width: 600px;
+    float: left;
+}
+
+.rightside{
+    background-color: cadetblue ;
+    width: 100px;
+    float: left;
+}
+
+.footer{
+    background-color: cadetblue ;
+}
+
+.menu{
+    height: 34px;
+    text-align: center;
+}
+
+.menu>ul>li{
+    display: inline;
+    padding: 10px 10px 10px 10px;
+    background-color: cadetblue;
+    position: relative;
+    top: 8px;
+    font-family: Tahoma Serif ;
+    font-size: 14px ;
+}
+
+.menu>li>a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.bildes{
+    margin: 0 auto;
+}
+
+.video{
+    width: 500px;
+    margin: 0 auto;
+}
